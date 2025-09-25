@@ -1,0 +1,75 @@
+ KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: UVM_INFO @ 0: reporter [RNTST] Running test test...
+# KERNEL: UVM_INFO /home/runner/testbench.sv(59) @ 90: uvm_test_top.ENV.AGENT.DRV [DRV] RESET DONE
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 90: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 90: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 130: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 130: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 130: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 130: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 130: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 170: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 170: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 170: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 170: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 170: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 210: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 210: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 210: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 210: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 210: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 250: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 250: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 250: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 250: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 250: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 290: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 290: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 290: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 290: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 290: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 330: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 330: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 330: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 330: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 330: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 370: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 370: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 370: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 370: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 370: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 410: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 410: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 410: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 410: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 410: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 450: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 450: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 450: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/runner/testbench.sv(37) @ 450: uvm_test_top.ENV.AGENT.SEQ@@gen [GEN] Data send to Driver din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(75) @ 450: uvm_test_top.ENV.AGENT.DRV [GEN] Data send to DUT din :0 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(108) @ 490: uvm_test_top.ENV.AGENT.MON [GEN] Data send to scoreboard din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(134) @ 490: uvm_test_top.ENV.SCO [GEN] Data rcvd from monitor din :1 
+# KERNEL: UVM_INFO /home/runner/testbench.sv(136) @ 490: uvm_test_top.ENV.SCO [SCO] test passed
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_objection.svh(1271) @ 510: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+# KERNEL: UVM_INFO /home/build/vlib1/vlib/uvm-1.2/src/base/uvm_report_server.svh(869) @ 510: reporter [UVM/REPORT/SERVER] 
+# KERNEL: --- UVM Report Summary ---
+# KERNEL: 
+# KERNEL: ** Report counts by severity
+# KERNEL: UVM_INFO :   54
+# KERNEL: UVM_WARNING :    0
+# KERNEL: UVM_ERROR :    0
+# KERNEL: UVM_FATAL :    0
+# KERNEL: ** Report counts by id
+# KERNEL: [DRV]     1
+# KERNEL: [GEN]    40
+# KERNEL: [RNTST]     1
+# KERNEL: [SCO]    10
+# KERNEL: [TEST_DONE]     1
+# KERNEL: [UVM/RELNOTES]     1
+# KERNEL: 
+# RUNTIME: Info: RUNTIME_0068 uvm_root.svh (521): $finish called.
+# KERNEL: Time: 510 ns,  Iteration: 57,  Instance: /add_tb,  Process: @INITIAL#231_3@.
+# KERNEL: stopped at time: 510 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
